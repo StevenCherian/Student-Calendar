@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" android:fillAfter="true">
+    <!--
+
+    All credit for creating animations goes to https://www.youtube.com/watch?v=Cys_i-6Pu-o
+
+    -->
+<rotate
+    android:fromDegrees="0"
+    android:toDegrees="90"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:duration="300"
+    android:interpolator="@android:anim/linear_interpolator"/>
+</set>

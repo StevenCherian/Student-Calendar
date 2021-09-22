@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Student Calendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="classInfoPrompt">Enter Class Info</string>
+    <string name="classNameDefault">Class Name</string>
+    <string name="descriptionDefault">Description</string>
+    <string name="dateStartDefault">Start Date</string>
+    <string name="dateEndDefault">End Date</string>
+    <string name="timePrompt">Select Time</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="cancelButtonText">Cancel</string>
+    <string name="eventInfoPrompt">Enter Event Information</string>
+    <string name="selectDatePrompt">Select Date</string>
+    <string name="eventNameDefault">Event Name</string>
+    <string name="classInfoPageTitle">Class Information</string>
+    <string name="displayName">Name:</string>
+    <string name="displayDescription">Description:</string>
+    <string name="displayStartDate">Start Date:</string>
+    <string name="displayEndDate">End Date:</string>
+    <string name="displayDays">Days of the Week</string>
+    <string name="displayTime">Time:</string>
+    <string name="deleteButtonText">Delete</string>
+    <string name="displayDate">Date:</string>
+    <string name="eventInfoPageTitle">Event Information</string>
+    <string name="events">Events</string>
+    <string name="classes">Classes</string>
+    <string name="noEventsText">  No Events</string>
+    <string name="noClassesText"> No Classes</string>
+    <string name="darkMode">Dark Mode</string>
+</resources>
